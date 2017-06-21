@@ -5,5 +5,5 @@ using namespace std;
 
 int main (int argc, char ** argv)
 {
-	cout << PalindromeNumber::isPalindrome(34567);
+	cout << PalindromeNumber().isPalindrome(123454321);
 }

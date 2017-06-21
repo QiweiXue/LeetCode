@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex5_LongestPalindromicSubst
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex9_PalindromeNumber", "Ex9_PalindromeNumber\PalindromeNumber.vcxproj", "{DE10F0FB-4455-43D9-9ACC-0042C83C8C71}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex6_ZigZagConversion", "Ex6_ZigZagConversion\ZigZagConversion.vcxproj", "{BF4648E8-9686-493D-943A-D11A08A6A57A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{DE10F0FB-4455-43D9-9ACC-0042C83C8C71}.Release|x64.Build.0 = Release|x64
 		{DE10F0FB-4455-43D9-9ACC-0042C83C8C71}.Release|x86.ActiveCfg = Release|Win32
 		{DE10F0FB-4455-43D9-9ACC-0042C83C8C71}.Release|x86.Build.0 = Release|Win32
+		{BF4648E8-9686-493D-943A-D11A08A6A57A}.Debug|x64.ActiveCfg = Debug|x64
+		{BF4648E8-9686-493D-943A-D11A08A6A57A}.Debug|x64.Build.0 = Debug|x64
+		{BF4648E8-9686-493D-943A-D11A08A6A57A}.Debug|x86.ActiveCfg = Debug|Win32
+		{BF4648E8-9686-493D-943A-D11A08A6A57A}.Debug|x86.Build.0 = Debug|Win32
+		{BF4648E8-9686-493D-943A-D11A08A6A57A}.Release|x64.ActiveCfg = Release|x64
+		{BF4648E8-9686-493D-943A-D11A08A6A57A}.Release|x64.Build.0 = Release|x64
+		{BF4648E8-9686-493D-943A-D11A08A6A57A}.Release|x86.ActiveCfg = Release|Win32
+		{BF4648E8-9686-493D-943A-D11A08A6A57A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

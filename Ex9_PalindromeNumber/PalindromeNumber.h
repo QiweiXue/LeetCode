@@ -2,6 +2,8 @@
 class PalindromeNumber
 {
 public:
-	static bool isPalindrome(int x);
+	bool isPalindrome(int x);
+private:
+	int getBits(int x, int b);
 };
 
