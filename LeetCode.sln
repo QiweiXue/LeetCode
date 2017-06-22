@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.12
+VisualStudioVersion = 15.0.26430.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex3_LongestSubstringWithoutRepeatingCharacters", "Ex3_LongestSubstringWithoutRepeatingCharacters\Ex3_LongestSubstringWithoutRepeatingCharacters.vcxproj", "{664C1FEB-48CA-4AAC-BC14-BFA80168E203}"
 EndProject
@@ -10,6 +10,10 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex9_PalindromeNumber", "Ex9_PalindromeNumber\PalindromeNumber.vcxproj", "{DE10F0FB-4455-43D9-9ACC-0042C83C8C71}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex6_ZigZagConversion", "Ex6_ZigZagConversion\ZigZagConversion.vcxproj", "{BF4648E8-9686-493D-943A-D11A08A6A57A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex11_ContainerWithMostWater", "Ex11_ContainerWithMostWater\Ex11_ContainerWithMostWater.vcxproj", "{45AD93DF-6DD6-405F-BADD-2FEB56B01FE4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex14_LongestCommonPrefix", "Ex14_LongestCommonPrefix\Ex14_LongestCommonPrefix.vcxproj", "{E4475E1E-6F0E-4F14-BBBD-AE1C903ABFDD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,22 @@ Global
 		{BF4648E8-9686-493D-943A-D11A08A6A57A}.Release|x64.Build.0 = Release|x64
 		{BF4648E8-9686-493D-943A-D11A08A6A57A}.Release|x86.ActiveCfg = Release|Win32
 		{BF4648E8-9686-493D-943A-D11A08A6A57A}.Release|x86.Build.0 = Release|Win32
+		{45AD93DF-6DD6-405F-BADD-2FEB56B01FE4}.Debug|x64.ActiveCfg = Debug|x64
+		{45AD93DF-6DD6-405F-BADD-2FEB56B01FE4}.Debug|x64.Build.0 = Debug|x64
+		{45AD93DF-6DD6-405F-BADD-2FEB56B01FE4}.Debug|x86.ActiveCfg = Debug|Win32
+		{45AD93DF-6DD6-405F-BADD-2FEB56B01FE4}.Debug|x86.Build.0 = Debug|Win32
+		{45AD93DF-6DD6-405F-BADD-2FEB56B01FE4}.Release|x64.ActiveCfg = Release|x64
+		{45AD93DF-6DD6-405F-BADD-2FEB56B01FE4}.Release|x64.Build.0 = Release|x64
+		{45AD93DF-6DD6-405F-BADD-2FEB56B01FE4}.Release|x86.ActiveCfg = Release|Win32
+		{45AD93DF-6DD6-405F-BADD-2FEB56B01FE4}.Release|x86.Build.0 = Release|Win32
+		{E4475E1E-6F0E-4F14-BBBD-AE1C903ABFDD}.Debug|x64.ActiveCfg = Debug|x64
+		{E4475E1E-6F0E-4F14-BBBD-AE1C903ABFDD}.Debug|x64.Build.0 = Debug|x64
+		{E4475E1E-6F0E-4F14-BBBD-AE1C903ABFDD}.Debug|x86.ActiveCfg = Debug|Win32
+		{E4475E1E-6F0E-4F14-BBBD-AE1C903ABFDD}.Debug|x86.Build.0 = Debug|Win32
+		{E4475E1E-6F0E-4F14-BBBD-AE1C903ABFDD}.Release|x64.ActiveCfg = Release|x64
+		{E4475E1E-6F0E-4F14-BBBD-AE1C903ABFDD}.Release|x64.Build.0 = Release|x64
+		{E4475E1E-6F0E-4F14-BBBD-AE1C903ABFDD}.Release|x86.ActiveCfg = Release|Win32
+		{E4475E1E-6F0E-4F14-BBBD-AE1C903ABFDD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
