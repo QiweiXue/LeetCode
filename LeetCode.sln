@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex14_LongestCommonPrefix", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex19_RemoveNthNodeFromEndofList", "Ex19_RemoveNthNodeFromEndofList\Ex19_RemoveNthNodeFromEndofList.vcxproj", "{1BD0F327-8670-4E1F-A78A-DF0684821E73}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex15_3Sum", "Ex15_3Sum\Ex15_3Sum.vcxproj", "{D63794A4-E3AA-4120-AC6B-2DEC8CD56C0B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{1BD0F327-8670-4E1F-A78A-DF0684821E73}.Release|x64.Build.0 = Release|x64
 		{1BD0F327-8670-4E1F-A78A-DF0684821E73}.Release|x86.ActiveCfg = Release|Win32
 		{1BD0F327-8670-4E1F-A78A-DF0684821E73}.Release|x86.Build.0 = Release|Win32
+		{D63794A4-E3AA-4120-AC6B-2DEC8CD56C0B}.Debug|x64.ActiveCfg = Debug|x64
+		{D63794A4-E3AA-4120-AC6B-2DEC8CD56C0B}.Debug|x64.Build.0 = Debug|x64
+		{D63794A4-E3AA-4120-AC6B-2DEC8CD56C0B}.Debug|x86.ActiveCfg = Debug|Win32
+		{D63794A4-E3AA-4120-AC6B-2DEC8CD56C0B}.Debug|x86.Build.0 = Debug|Win32
+		{D63794A4-E3AA-4120-AC6B-2DEC8CD56C0B}.Release|x64.ActiveCfg = Release|x64
+		{D63794A4-E3AA-4120-AC6B-2DEC8CD56C0B}.Release|x64.Build.0 = Release|x64
+		{D63794A4-E3AA-4120-AC6B-2DEC8CD56C0B}.Release|x86.ActiveCfg = Release|Win32
+		{D63794A4-E3AA-4120-AC6B-2DEC8CD56C0B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
