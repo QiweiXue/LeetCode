@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex17_LetterCombinationsOfAP
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex22_GenerateParentheses", "Ex22_GenerateParentheses\Ex22_GenerateParentheses.vcxproj", "{4E73B11A-8A6F-4EFA-9A88-6623CAC70E79}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex24_SwapNodesInPairs", "Ex24_SwapNodesInPairs\Ex24_SwapNodesInPairs.vcxproj", "{47537B16-365E-41F3-9458-B796726D37D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -141,6 +143,14 @@ Global
 		{4E73B11A-8A6F-4EFA-9A88-6623CAC70E79}.Release|x64.Build.0 = Release|x64
 		{4E73B11A-8A6F-4EFA-9A88-6623CAC70E79}.Release|x86.ActiveCfg = Release|Win32
 		{4E73B11A-8A6F-4EFA-9A88-6623CAC70E79}.Release|x86.Build.0 = Release|Win32
+		{47537B16-365E-41F3-9458-B796726D37D7}.Debug|x64.ActiveCfg = Debug|x64
+		{47537B16-365E-41F3-9458-B796726D37D7}.Debug|x64.Build.0 = Debug|x64
+		{47537B16-365E-41F3-9458-B796726D37D7}.Debug|x86.ActiveCfg = Debug|Win32
+		{47537B16-365E-41F3-9458-B796726D37D7}.Debug|x86.Build.0 = Debug|Win32
+		{47537B16-365E-41F3-9458-B796726D37D7}.Release|x64.ActiveCfg = Release|x64
+		{47537B16-365E-41F3-9458-B796726D37D7}.Release|x64.Build.0 = Release|x64
+		{47537B16-365E-41F3-9458-B796726D37D7}.Release|x86.ActiveCfg = Release|Win32
+		{47537B16-365E-41F3-9458-B796726D37D7}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
