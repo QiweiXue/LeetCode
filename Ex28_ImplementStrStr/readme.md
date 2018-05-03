@@ -1,3 +1,5 @@
 # note
 
-1. ²ÉÓÃkmpËã·¨£¬
+1. kmp
+
+2. when needle is empty , return 0
