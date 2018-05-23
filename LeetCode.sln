@@ -67,6 +67,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex48_RotateImage", "Ex48_Ro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex49_GroupAnagrams", "Ex49_GroupAnagrams\Ex49_GroupAnagrams.vcxproj", "{95F55CE6-19A7-49D1-A0A6-164285F8DB0A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex50_Pow(x, n)", "Ex50_Pow(x, n)\Ex50_Pow(x, n).vcxproj", "{7A8E72F2-3ADE-4600-87AE-AC76512A18EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -331,6 +333,14 @@ Global
 		{95F55CE6-19A7-49D1-A0A6-164285F8DB0A}.Release|x64.Build.0 = Release|x64
 		{95F55CE6-19A7-49D1-A0A6-164285F8DB0A}.Release|x86.ActiveCfg = Release|Win32
 		{95F55CE6-19A7-49D1-A0A6-164285F8DB0A}.Release|x86.Build.0 = Release|Win32
+		{7A8E72F2-3ADE-4600-87AE-AC76512A18EA}.Debug|x64.ActiveCfg = Debug|x64
+		{7A8E72F2-3ADE-4600-87AE-AC76512A18EA}.Debug|x64.Build.0 = Debug|x64
+		{7A8E72F2-3ADE-4600-87AE-AC76512A18EA}.Debug|x86.ActiveCfg = Debug|Win32
+		{7A8E72F2-3ADE-4600-87AE-AC76512A18EA}.Debug|x86.Build.0 = Debug|Win32
+		{7A8E72F2-3ADE-4600-87AE-AC76512A18EA}.Release|x64.ActiveCfg = Release|x64
+		{7A8E72F2-3ADE-4600-87AE-AC76512A18EA}.Release|x64.Build.0 = Release|x64
+		{7A8E72F2-3ADE-4600-87AE-AC76512A18EA}.Release|x86.ActiveCfg = Release|Win32
+		{7A8E72F2-3ADE-4600-87AE-AC76512A18EA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
