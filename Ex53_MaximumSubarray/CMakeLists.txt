@@ -1,1 +1,1 @@
-add_executable(ex53 Ex53_MaximumSubarray_v2.cpp ../Ex54_SpiralMatrix/Ex54_SpiralMatrix.cpp)
+add_executable(ex53 Ex53_MaximumSubarray_v2.cpp)
