@@ -1,0 +1,1 @@
+add_executable(ex56 Ex56_MergeIntervals.cpp)
