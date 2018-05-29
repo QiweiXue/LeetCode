@@ -1,0 +1,1 @@
+add_executable(ex58 Ex58_LengthOfLastWord.cpp)

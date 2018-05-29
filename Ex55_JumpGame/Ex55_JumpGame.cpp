@@ -3,6 +3,7 @@
 
 using namespace std;
 
+//TODO method 2
 class Solution {
 public:
     bool canJump(vector<int> &nums) {
