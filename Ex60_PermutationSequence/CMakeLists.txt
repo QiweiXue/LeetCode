@@ -1,0 +1,1 @@
+ADD_EXECUTABLE(ex60 Ex60_PermutationSequence.cpp)
