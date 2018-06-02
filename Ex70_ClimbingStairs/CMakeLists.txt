@@ -1,0 +1,1 @@
+ADD_EXECUTABLE(ex70 Ex70_ClimbingStairs.cpp)
