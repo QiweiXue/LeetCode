@@ -9,6 +9,7 @@
 #include <vector>
 #include <string>
 #include <cstddef>
+#include <algorithm>
 
 // list
 struct ListNode {
