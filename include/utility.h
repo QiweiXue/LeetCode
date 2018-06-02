@@ -35,4 +35,11 @@ void printMatrix(std::vector<std::vector<int>> &mat) {
   }
 }
 
+// digits
+void printDigits(std::vector<int> &digits) {
+  for (auto &a : digits)
+	std::cout << a << " ";
+  std::cout << std::endl;
+}
+
 #endif //LEETCODE_UTILITY_H

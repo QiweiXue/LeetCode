@@ -1,0 +1,1 @@
+ADD_EXECUTABLE(ex66 Ex66_PlusOne.cpp)
