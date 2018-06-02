@@ -1,0 +1,1 @@
+ADD_EXECUTABLE(ex67 Ex67_AddBinary.cpp)
