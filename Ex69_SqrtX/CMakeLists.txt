@@ -1,0 +1,1 @@
+ADD_EXECUTABLE(ex69 Ex69_SqrtX.cpp)
