@@ -1,0 +1,1 @@
+ADD_EXECUTABLE(ex71 Ex71_SimplifyPath.cpp)
