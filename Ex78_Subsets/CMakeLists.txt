@@ -1,0 +1,1 @@
+ADD_EXECUTABLE(ex78 Ex78_Subsets.cpp)
