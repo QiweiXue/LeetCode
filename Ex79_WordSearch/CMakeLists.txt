@@ -1,0 +1,1 @@
+ADD_EXECUTABLE(ex79 Ex79_WordSearch.cpp)

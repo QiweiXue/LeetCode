@@ -27,7 +27,8 @@ void printList(ListNode *l) {
 }
 
 // Matrix
-void printMatrix(std::vector<std::vector<int>> &mat) {
+template< typename T>
+void printMatrix(std::vector<std::vector<T>> &mat) {
   for (auto &a : mat) {
 	for (auto &b : a)
 	  std::cout << b << " ";
@@ -36,7 +37,8 @@ void printMatrix(std::vector<std::vector<int>> &mat) {
 }
 
 // digits
-void printDigits(std::vector<int> &digits) {
+template<typename T>
+void printDigits(std::vector<T> &digits) {
   for (auto &a : digits)
 	std::cout << a << " ";
   std::cout << std::endl;
