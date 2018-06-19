@@ -1,0 +1,1 @@
+ADD_EXECUTABLE(ex86 Ex86_PartitionList.cpp)
